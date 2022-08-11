@@ -4,7 +4,7 @@ Este aplicativo Olx clone é uma cópia simplificada do Olx (https://www.olx.com
 
 # Funcionalidades usada
 
-Esse projeto tem como objetivo recriar as principais funcionalidades do aplicativo olx, 
+Este projeto tem como objetivo recriar as principais funcionalidades do aplicativo olx, 
 como cadastrar um usuário, cadastrar um anúncio, publicar um anúncio.
 
 Foi utilizada algumas funcionalidades com por exemplo o Firebase utilizando o serviço de autenticação, Realtime Database e o Storage.
