@@ -9,7 +9,7 @@ como cadastrar um usuário, cadastrar um anúncio, publicar um anúncio.
 
 Foi utilizada algumas funcionalidades com por exemplo o Firebase utilizando o serviço de autenticação, Realtime Database e o Storage.
 
-### Biblioteca
+### Bibliotecas
 Algumas biblioteca para auxiliar no desenvolvimento como o SlideImage, Glide, Dialog, Máscaras de número e telefone.
 
 # Vídeo do funcionamento Olx Clone
